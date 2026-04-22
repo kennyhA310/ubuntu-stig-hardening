@@ -88,13 +88,15 @@ This project demonstrates the implementation of DISA STIG-aligned security contr
 | High Severity Findings |
 <img width="1162" height="560" alt="Number of High Severity Findings" src="https://github.com/user-attachments/assets/f07496a8-dab7-471d-9e42-8e715fdfb737" />
 | Remediation Example | 
-<img width="1007" height="148" alt="Remediation Example" src="https://github.com/user-attachments/assets/6490fede-f89a-40d5-aecb-400ac51110b7" />
+<img width="1060" height="671" alt="Screenshot 2026-04-21 184420" src="https://github.com/user-attachments/assets/1bba9f84-4c30-4f0b-b0f3-63d23880229f" />
 <img width="1011" height="87" alt="Screenshot 2026-04-21 163055" src="https://github.com/user-attachments/assets/c9a2cc7e-094c-4969-88c5-9f6d4e38b8bc" />
 <img width="1017" height="255" alt="Screenshot 2026-04-21 161147" src="https://github.com/user-attachments/assets/24364c40-a682-433a-8174-77b4fe163b5e" />
 <img width="1005" height="669" alt="Screenshot 2026-04-21 161902" src="https://github.com/user-attachments/assets/feec0a14-b2f8-4c6e-a745-084ef562e3d4" />
-
+<img width="1039" height="38" alt="Screenshot 2026-04-21 181952" src="https://github.com/user-attachments/assets/a1e9525f-2f9c-4099-ab90-36e048b1a0ad" />
 | Final Scan Results | 
 <img width="1290" height="887" alt="Final Scan" src="https://github.com/user-attachments/assets/8ce506a0-3126-49bb-aba1-47ce416e9068" />
+<img width="1167" height="504" alt="Number of High Severities Reduced" src="https://github.com/user-attachments/assets/6e000855-2c33-481d-96fe-95c982e957ef" />
+
 
 ---
 

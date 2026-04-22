@@ -89,6 +89,10 @@ This project demonstrates the implementation of DISA STIG-aligned security contr
 <img width="1162" height="560" alt="Number of High Severity Findings" src="https://github.com/user-attachments/assets/f07496a8-dab7-471d-9e42-8e715fdfb737" />
 | Remediation Example | 
 <img width="1007" height="148" alt="Remediation Example" src="https://github.com/user-attachments/assets/6490fede-f89a-40d5-aecb-400ac51110b7" />
+<img width="1011" height="87" alt="Screenshot 2026-04-21 163055" src="https://github.com/user-attachments/assets/c9a2cc7e-094c-4969-88c5-9f6d4e38b8bc" />
+<img width="1017" height="255" alt="Screenshot 2026-04-21 161147" src="https://github.com/user-attachments/assets/24364c40-a682-433a-8174-77b4fe163b5e" />
+<img width="1005" height="669" alt="Screenshot 2026-04-21 161902" src="https://github.com/user-attachments/assets/feec0a14-b2f8-4c6e-a745-084ef562e3d4" />
+
 | Final Scan Results | 
 <img width="1290" height="887" alt="Final Scan" src="https://github.com/user-attachments/assets/8ce506a0-3126-49bb-aba1-47ce416e9068" />
 

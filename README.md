@@ -1,4 +1,4 @@
-# Ubuntu 24.04 STIG Hardening Lab 🔐
+# Ubuntu 24.04 STIG Hardening 
 
 ## 📌 Overview
 This project demonstrates the implementation of DISA STIG-aligned security controls on an Ubuntu 24.04 virtual machine using OpenSCAP. The lab simulates a real-world vulnerability remediation workflow by identifying noncompliant configurations, applying fixes, and validating improvements through iterative scanning.
